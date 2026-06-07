@@ -1,7 +1,7 @@
-﻿streamlit
+streamlit
 pandas
 matplotlib
 python-docx
-scikit-learn
-PyPDF2
 sentence-transformers
+scikit-learn
+nltk
